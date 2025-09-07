@@ -1,7 +1,7 @@
 // Global Variables
 let currentUser = null;
 let isAdmin = false;
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = '/api';
 
 // Table pagination variables
 let currentPage = 1;
